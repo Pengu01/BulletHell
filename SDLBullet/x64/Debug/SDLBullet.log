@@ -1,0 +1,76 @@
+﻿  Game.cpp
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(72,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(73,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(122,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(123,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(145,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(146,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(153,15): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(154,16): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(67,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(94,16): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(95,16): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(102,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(102,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(102,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(102,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(120,55): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(120,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(120,109): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(120,109): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(131,55): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(131,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(131,109): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(131,109): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(168,53): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(168,53): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(168,112): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(168,112): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(168,163): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(168,163): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(168,189): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(168,189): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(172,54): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(172,54): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(172,108): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(172,108): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(215,66): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(252,49): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(252,49): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(252,105): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(252,105): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(264,49): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(264,49): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(264,102): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(264,102): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(264,121): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(264,121): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(295,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(296,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(358,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(401,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(414,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(450,44): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(450,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(450,71): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(450,71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(238,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(186): message : see reference to function template instantiation 'void Game::Render<Background>(T)' being compiled
+          with
+          [
+              T=Background
+          ]
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(238,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(238,86): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.cpp(238,86): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(72,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(73,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(122,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(123,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(145,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(146,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(153,15): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\dev\C++\SDLBullet\SDLBullet\src\Game.h(154,16): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  SDLBullet.vcxproj -> C:\dev\C++\SDLBullet\x64\Debug\SDLBullet.exe
